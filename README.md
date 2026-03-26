@@ -29,6 +29,10 @@
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yatharthnagpal&theme=radical" height="170" alt="Top Languages" />
 </p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yatharthnagpal&theme=radical" width="100%" alt="Total Contributions" />
+</p>
+
 
 ---
 
