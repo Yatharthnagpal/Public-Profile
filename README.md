@@ -38,10 +38,6 @@
 ---
 ### 🎧 Currently vibing to
 
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)]([YOUR_PLAYLIST_LINK])
-
-<a href="[YOUR_PLAYLIST_LINK]">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default" />
-</a>
+[![Spotify Playlist](https://img.shields.io/badge/Spotify-Funchy%20Loo-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/53TYUfQgMNJUpudATbpbqa)
 
 ⚡ *"Data is the new oil — but only if you know how to refine it."*
