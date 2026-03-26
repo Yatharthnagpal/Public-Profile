@@ -32,6 +32,9 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Yatharthnagpal&theme=radical&no-frame=true&no-bg=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Total Contributions Trophy" />
 </p>
+
+---
+
 <h3>🏆 Coding Stats</h3>
 <p align="center">
   <a href="https://codolio.com/profile/Yashu41" target="_blank">
