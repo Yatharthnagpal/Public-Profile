@@ -24,18 +24,18 @@
 ---
 
 <h3>📊 GitHub Stats & Languages</h3>
-profile-summary-cards.vercel.app/api/cards/stats?username=Yatharthnagpal&theme=radical" height="170" alt="GitHub Stats" />
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yatharthnagpal&theme=radical" height="170" alt="GitHub Stats" />
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yatharthnagpal&theme=radical" height="170" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yatharthnagpal&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Yatharthnagpal&limit=5&theme=radical&combine_all_yearly_contributions=true" width="100%" alt="Total Contributions" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Yatharthnagpal&theme=radical&no-frame=true&no-bg=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Total Contributions Trophy" />
 </p>
 
 ---
+
 <h3>🏆 Coding Stats</h3>
 <p align="center">
   <a href="https://codolio.com/profile/Yashu41" target="_blank">
