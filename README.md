@@ -24,7 +24,6 @@
 ---
 
 <h3>📊 GitHub Stats & Languages</h3>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yatharthnagpal&theme=radical" height="170" alt="GitHub Stats" />
   &nbsp;
@@ -33,8 +32,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Yatharthnagpal&theme=radical&no-frame=true&no-bg=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Total Contributions Trophy" />
 </p>
-
----
 
 <h3>🏆 Coding Stats</h3>
 <p align="center">
