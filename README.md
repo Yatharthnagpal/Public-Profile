@@ -25,7 +25,7 @@
 
 <h3>📊 GitHub Stats & Languages</h3>
 <p align="center">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2FYatharthnagpal.github.io%2FYatharthnagpal%2Fcontributions.json&style=for-the-badge" alt="Custom Contributions Since 2022" />
+  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2FYatharthnagpal.github.io%2FPublic-Profile%2Fcontributions.json&style=for-the-badge" alt="Custom Contributions Since 2022" />
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yatharthnagpal&theme=radical" height="170" alt="GitHub Stats" />
