@@ -123,8 +123,8 @@
 <h3>🎧 Currently Vibing To</h3>
 
 <p align="center">
-  <a href="https://open.spotify.com/playlist/53TYUfQgMNJUpudATbpbqa" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-Funchy%20Loo%20🎵-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+  <a href="https://open.spotify.com/user/Yatharthnagpal" target="_blank">
+    <img src="https://img.shields.io/endpoint?url=https%3A%2F%2FYatharthnagpal.github.io%2FPublic-Profile%2Fspotify.json&style=for-the-badge" alt="Spotify Currently Playing" />
   </a>
 </p>
 
