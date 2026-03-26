@@ -29,21 +29,7 @@
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yatharthnagpal&theme=radical" height="170" alt="Top Languages" />
 </p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yatharthnagpal&theme=radical&year=2022" width="100%" alt="2022 Contributions" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yatharthnagpal&theme=radical&year=2023" width="100%" alt="2023 Contributions" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yatharthnagpal&theme=radical&year=2024" width="100%" alt="2024 Contributions" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yatharthnagpal&theme=radical&year=2025" width="100%" alt="2025 Contributions" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yatharthnagpal&theme=radical&year=2026" width="100%" alt="2026 Contributions" />
-</p>
+
 
 <h3>🏆 Coding Stats</h3>
 <p align="center">
