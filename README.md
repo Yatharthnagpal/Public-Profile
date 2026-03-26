@@ -30,10 +30,30 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yatharthnagpal&theme=radical" height="170" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yatharthnagpal&theme=radical" width="100%" alt="Total Contributions" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yatharthnagpal&theme=radical&year=2022" width="100%" alt="2022 Contributions" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yatharthnagpal&theme=radical&year=2023" width="100%" alt="2023 Contributions" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yatharthnagpal&theme=radical&year=2024" width="100%" alt="2024 Contributions" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yatharthnagpal&theme=radical&year=2025" width="100%" alt="2025 Contributions" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yatharthnagpal&theme=radical&year=2026" width="100%" alt="2026 Contributions" />
 </p>
 
-
+<h3>🏆 Coding Stats</h3>
+<p align="center">
+  <a href="https://codolio.com/profile/Yashu41" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Full%20Coding%20Profile-Codolio-8A2BE2?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=202020" height="50" alt="Codolio Profile" />
+  </a>
+</p>
+<p align="center">
+  <i>My Competitive Programming stats (LeetCode, GFG, Codeforces) are aggregated on Codolio.</i>
+</p>
 ---
 
 <h3>🛠️ Comprehensive Tech Stack</h3>
