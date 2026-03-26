@@ -1,43 +1,136 @@
-<div align="center">
+<h1 align="center">👋 Hi, I'm Yatharth Nagpal</h1>
+<h3 align="center">AI/ML Engineer · Data Scientist · Data Engineer · AI Enthusiast</h3>
 
-### Hello, Folks 👋
-
-# I'm Yatharth Nagpal
-
-`<role>` AI/ML Engineer · Data Scientist · Data Engineer · AI Enthusiast `</role>`
-
-![AI/ML Engineer](https://img.shields.io/badge/AI%2FML%20Engineer-0A66C2?style=flat-square&logoColor=white)
-![Data Scientist](https://img.shields.io/badge/Data%20Scientist-0F6E56?style=flat-square&logoColor=white)
-![Data Engineer](https://img.shields.io/badge/Data%20Engineer-534AB7?style=flat-square&logoColor=white)
-![AI Enthusiast](https://img.shields.io/badge/AI%20Enthusiast-BA7517?style=flat-square&logoColor=white)
-
-</div>
+<p align="center">
+  <a href="mailto:nagpalyatharth99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yatharth-nagpal-2a8h6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Yatharthnagpal" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-> Passionate about turning raw data into intelligent systems. I build AI-powered applications, design fraud detection pipelines, and explore the intersection of law, language, and machine learning.
-> Currently deep-diving into **LLMs**, **Graph Neural Networks**, and real-world AI deployment.
+<h3>🌟 About Me</h3>
+
+<p>I'm a passionate <b>AI/ML Engineer and Data Scientist</b> who loves turning raw data into intelligent, real-world systems. From building <b>legal AI platforms</b> and <b>fraud detection pipelines</b> to scraping OSINT data and deploying Graph Neural Networks — I thrive at the intersection of data, intelligence, and impact.</p>
+
+<ul>
+  <li>⚖️ Building <b>LegalAI</b> — Next-Gen Indian Legal Intelligence powered by LLMs</li>
+  <li>🔍 Exploring <b>Graph Neural Networks</b> for fraud detection on agriculture subsidies</li>
+  <li>📊 Designing <b>e-commerce insight & fraud detection</b> pipelines with ML</li>
+  <li>🕵️ Automating <b>OSINT data extraction</b> using Playwright & BeautifulSoup</li>
+  <li>🎧 When offline — music, curiosity, and building things that matter</li>
+</ul>
 
 ---
 
-### 🛠️ Tech I work with
+<h3>🐍 GitHub Activity</h3>
 
-`Python` · `PyTorch` · `Scikit-learn` · `HuggingFace` · `LangChain` · `Pandas` · `NumPy` · `Jupyter` · `Playwright` · `BeautifulSoup`
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yatharthnagpal/Yatharthnagpal/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+</p>
+
+---
+
+<h3>📊 GitHub Stats & Languages</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yatharthnagpal&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yatharthnagpal&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yatharthnagpal&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-### 📌 Featured Projects
+<h3>🛠️ Comprehensive Tech Stack</h3>
 
-| Project | Description | Stack |
-|---|---|---|
-| **LegalAI** | Next-gen Indian legal intelligence | Python · NLP · LLMs |
-| **EcomGuard** | E-commerce fraud detection & insights | ML · Jupyter |
-| **Agri Subsidy Fraud** | Graph-based fraud detection | GNN · PyTorch |
-| **Cyber Most Wanted** | FBI cyber data extraction | Playwright · BS4 |
+<p><b>Languages</b><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=flat-square"/>
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=flat-square"/>
+</p>
+
+<p><b>Machine Learning & AI</b><br>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black&style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?logoColor=white&style=flat-square"/>
+</p>
+
+<p><b>Data Engineering & Analysis</b><br>
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Seaborn-3C7EBB?logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=flat-square"/>
+</p>
+
+<p><b>Web Scraping & Automation</b><br>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/BeautifulSoup-3776AB?logo=python&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Requests-3776AB?logo=python&logoColor=white&style=flat-square"/>
+</p>
+
+<p><b>Cloud & Tools</b><br>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=black&style=flat-square"/>
+</p>
 
 ---
-### 🎧 Currently vibing to
 
-[![Spotify Playlist](https://img.shields.io/badge/Spotify-Funchy%20Loo-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/53TYUfQgMNJUpudATbpbqa)
+<h3>🏗️ Featured Projects</h3>
 
-⚡ *"Data is the new oil — but only if you know how to refine it."*
+<ul>
+  <li>⚖️ <b>LegalAI (AI + NLP):</b> Built a next-gen Indian legal intelligence platform powered by <b>LLMs and NLP</b>. Enables users to query, summarize, and understand Indian legal documents using retrieval-augmented generation (RAG) techniques.</li>
+  <li>🛒 <b>EcomGuard (Fraud Detection & Analytics):</b> Designed an e-commerce insights and fraud detection system using <b>ML classification models</b>. Analyzes daily profits, identifies popular products, and flags suspicious orders with explainable outputs.</li>
+  <li>🌾 <b>Agri Subsidy Fraud Detection (GNN):</b> Developed a fraud detection model on agriculture subsidy data using <b>Graph Neural Networks</b> with PyTorch, identifying fraudulent beneficiary relationships through graph topology.</li>
+  <li>🕵️ <b>Cyber Most Wanted Scraper (OSINT):</b> Automated extraction of detailed profiles from the FBI Cyber's Most Wanted website using <b>Playwright and BeautifulSoup</b>, structuring data for downstream analysis.</li>
+  <li>🌍 <b>Immigrants Data Extraction:</b> Built a pipeline to extract and structure immigration datasets, enabling pattern analysis and data-driven insights on immigration trends.</li>
+</ul>
+
+---
+
+<h3>📜 Licenses & Certifications</h3>
+
+<ul>
+  <li>🏅 <b>IBM</b> — AI Engineering Specialization <i>(Dec 2023)</i> · Skills: Python, Machine Learning, Computer Vision, NLP, Generative AI</li>
+  <li>🏅 <b>Amazon Web Services (AWS)</b> — AWS Academy Graduate: Cloud Foundations <i>(Mar 2025)</i> · Skills: AWS</li>
+  <li>🏅 <b>Udemy</b> — SQL for Data Analysts: Hands-on Analysis Skills for Industry <i>(Nov 2024)</i> · Skills: SQL, PowerBI</li>
+  <li>🏅 <b>Udemy</b> — R Programming: R Language Beginners to Pro <i>(Jun 2025)</i> · Skills: R, Data Analysis</li>
+</ul>
+
+---
+
+<h3>🎧 Currently Vibing To</h3>
+
+<p align="center">
+  <a href="https://open.spotify.com/playlist/53TYUfQgMNJUpudATbpbqa" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-Funchy%20Loo%20🎵-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<h3>📫 Get in Touch</h3>
+
+<ul>
+  <li>📧 <a href="mailto:nagpalyatharth99@gmail.com">nagpalyatharth99@gmail.com</a></li>
+  <li>🔗 <a href="https://www.linkedin.com/in/yatharth-nagpal-2a8h6/">LinkedIn — Yatharth Nagpal</a></li>
+  <li>🐙 <a href="https://github.com/Yatharthnagpal">GitHub — Yatharthnagpal</a></li>
+</ul>
+
+<p align="center">✨ <i>"Data is the new oil — but only if you know how to refine it."</i></p>
