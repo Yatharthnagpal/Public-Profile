@@ -30,7 +30,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yatharthnagpal&theme=radical" height="170" alt="Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yatharthnagpal&theme=radical&no-frame=true&no-bg=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Total Contributions Trophy" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yatharthnagpal&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&custom_title=Total+GitHub+Contributions" alt="Total Contributions" />
+</p>
 </p>
 
 ---
