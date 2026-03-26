@@ -38,7 +38,7 @@
 ---
 ### 🎧 Currently vibing to
 
-[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)]([https://open.spotify.com/playlist/53TYUfQgMNJUpudATbpbqa?si=dad82af6de454699])
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)]([YOUR_PLAYLIST_LINK])
 
 <a href="[YOUR_PLAYLIST_LINK]">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default" />
