@@ -44,6 +44,7 @@
 <p align="center">
   <i>My Competitive Programming stats (LeetCode, GFG, Codeforces) are aggregated on Codolio.</i>
 </p>
+
 ---
 
 <h3>🛠️ Comprehensive Tech Stack</h3>
