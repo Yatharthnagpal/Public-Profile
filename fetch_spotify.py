@@ -71,7 +71,7 @@ if __name__ == "__main__":
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     
     # Truncate very long song names
-    msg = f"{title} - {artist}"
+    msg = str(title) + " - " + str(artist)
     if len(msg) > 40:
         msg = msg[:37] + "..."
         
