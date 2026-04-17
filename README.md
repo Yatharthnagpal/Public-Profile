@@ -137,5 +137,3 @@
   <li>🔗 <a href="https://www.linkedin.com/in/yatharth-nagpal-2a8h6/">LinkedIn — Yatharth Nagpal</a></li>
   <li>🐙 <a href="https://github.com/Yatharthnagpal">GitHub — Yatharthnagpal</a></li>
 </ul>
-
-<p align="center">✨ <i>"Data is the new oil — but only if you know how to refine it."</i></p>
