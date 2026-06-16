@@ -32,7 +32,9 @@ jobs:
           SPOTIFY_CLIENT_ID: ${{ secrets.SPOTIFY_CLIENT_ID }}
           SPOTIFY_CLIENT_SECRET: ${{ secrets.SPOTIFY_CLIENT_SECRET }}
           SPOTIFY_REFRESH_TOKEN: ${{ secrets.SPOTIFY_REFRESH_TOKEN }}
-        run: python fetch_spotify.py
+        run: |
+          mkdir -p public
+          python fetch_spotify.py
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
