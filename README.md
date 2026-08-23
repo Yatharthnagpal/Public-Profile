@@ -38,18 +38,6 @@
 
 ---
 
-<h3>🏆 Coding Stats</h3>
-<p align="center">
-  <a href="https://codolio.com/profile/Yashu41" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Full%20Coding%20Profile-Codolio-8A2BE2?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=202020" height="50" alt="Codolio Profile" />
-  </a>
-</p>
-<p align="center">
-  <i>My Competitive Programming stats (LeetCode, GFG, Codeforces) are aggregated on Codolio.</i>
-</p>
-
----
-
 <h3>🛠️ Comprehensive Tech Stack</h3>
 
 <p><b>Languages</b><br>
